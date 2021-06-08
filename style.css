@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+nav{
+    display: flex;
+    background: azure;
+    justify-content: space-around;
+}
+.logo{
+    padding: 15px;
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    list-style-type: none;
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: rgb(255, 154, 53);
+}
+
+.hero{
+    background-image: url(files/truck1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+.hero .container{
+    width: 70%;
+    padding-top: 50px;
+    margin: 0 auto;
+}
+.hero .container h1{
+    font-size: 72px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fff;
+
+}
+
+.btn{
+    padding-top: 30px;
+}
+.btn a{
+    text-decoration: none;
+    background: rgb(255, 154, 53);
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: #fff;
+}
+.btn a:hover{
+    background: rgb(97, 52, 7);
+}
+
+.wrapper{
+    background: rgb(255, 154, 53);
+    text-align: center;
+}
+.inner-wrapper{
+    color: #fff;
+    width: 30%;
+    padding: 50px;
+    margin: 0 auto;
+}
+.inner-wrapper h1{
+    padding: 20px;
+}
+.col-6{
+    width: 50%;
+}
+.about{
+    display: flex;
+    padding: 60px 0;
+    width: 70%;
+    margin: 0 auto;
+}
+.about img{
+    width: 100%
+}
+.desc {
+    padding-left: 30px ;
+}
+.desc p{
+    font-size: 18px;
+}
+.desc h1{
+    padding: 10px 0 20px 0;
+}
+footer{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    padding-bottom: 40px;
+    justify-content: space-around;
+}
+.footer-content{
+    font-size: 22px;
+}
+.social{
+    padding: 10px;
+    font-size: 30px;
+}
+
+.fa{
+    padding-right: 20px;
+    cursor: pointer;
+}
+.fa:hover{
+    color: rgb(255, 154, 53);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
